@@ -11,8 +11,8 @@ JavaScript, NodeJS, React
 
 ### 👨‍🎓 Courses and certificates
 * IT Talants Training Camp with PHP (2021)
-* Programing Basics with Python at SoftUni (2023)
-* Programing Fundamentals with Python at SoftUni (2023)
+* Programming Basics with Python at SoftUni (2023)
+* Programming Fundamentals with Python at SoftUni (2023)
 * Programming Advanced with JavaScript at SoftUni (2024)
 * Programming Applications with JavaScript at Software University (2024)
 
