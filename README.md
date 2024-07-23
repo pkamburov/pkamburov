@@ -1,20 +1,19 @@
 ## Hi there! 👋
-I'm Pavel, a curious individual with experience in advertising and web support, currently expanding my skills into the tech world by studying at SoftUni, Sofia.
-
+I'm Pavel, a curious individual with experience in web support, currently expanding my skills into the tech world by studying at SoftUni, Sofia.
+<br>
 ## Skills
-
 ### ⬅️ Past experience
-HTML5, CSS3, PHP, Wordpress
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,wordpress)](https://skillicons.dev)
+<br>
 ### 💻 I'm currently learning
-JavaScript, NodeJS, React
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongo,react,tailwind,ts)](https://skillicons.dev)
 
 ### 👨‍🎓 Courses and certificates
 * IT Talants Training Camp with PHP (2021)
 * Programming Basics with Python at SoftUni (2023)
 * Programming Fundamentals with Python at SoftUni (2023)
 * Programming Advanced with JavaScript at SoftUni (2024)
-* Programming Applications with JavaScript at Software University (2024)
+* Programming Applications with JavaScript at SoftUni (2024)
 
 ### 🌐 Languages
 * **Bulgarian:** _Native_
