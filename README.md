@@ -9,7 +9,7 @@ HTML5, CSS3, PHP, Wordpress
 ### 💻 I'm currently learning
 JavaScript, NodeJS, React
 
-### Courses and certificates
+### 👨‍🎓 Courses and certificates
 * IT Talants Training Camp with PHP (2021)
 * Programing Basics with Python at SoftUni (2023)
 * Programing Fundamentals with Python at SoftUni (2023)
