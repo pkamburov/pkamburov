@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Pavel, a curious individual with experience in advertising and marketing, currently expanding my skills into the tech world by studying at SoftUni, Sofia.
+I'm Pavel, a curious individual with experience in advertising and web support, currently expanding my skills into the tech world by studying at SoftUni, Sofia.
 
 ## Skills
 
