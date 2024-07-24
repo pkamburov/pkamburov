@@ -6,7 +6,7 @@ I'm Pavel, a curious individual with experience in web support, currently expand
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,wordpress)](https://skillicons.dev)
 <br>
 ### 💻 I'm currently learning
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongo,react,tailwind,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,mongo,react,tailwind,ts)](https://skillicons.dev)
 
 ### 👨‍🎓 Courses and certificates
 * IT Talants Training Camp with PHP (2021)
