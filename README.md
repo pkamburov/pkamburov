@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Pavel, a curious individual with experience in web support, currently expanding my skills into the tech world by studying at SoftUni, Sofia.
+I'm Pavel, a curious individual with experience in web support, currently expanding my skills into the tech world by studying at SoftUni, Sofia. I enjoy learning new technologies and cooperating with other developers. Looking to contribute to cool open source projects.
 <br>
 ## Skills
 ### ⬅️ Past experience
