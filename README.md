@@ -1,24 +1,40 @@
-## Hi there! 👋
-I'm Pavel, a curious individual with experience in web support, currently expanding my skills into the tech world by studying at SoftUni, Sofia. I enjoy learning new technologies and cooperating with other developers. Looking to contribute to cool open source projects.
-<br>
-## Skills
-### ⬅️ Past experience
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,wordpress)](https://skillicons.dev)
-<br>
-### 💻 I'm currently learning
-[![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,mongo,react,angular,tailwind,ts)](https://skillicons.dev)
+# Hi, I'm Pavel 👋
 
-### 👨‍🎓 Courses and certificates
-* IT Talants Training Camp with PHP (2021)
-* Programming Basics with Python at SoftUni (2023)
-* Programming Fundamentals with Python at SoftUni (2023)
-* Programming Advanced with JavaScript at SoftUni (2024)
-* Programming Applications with JavaScript at SoftUni (2024)
+Frontend-focused developer building modern web applications with React, TypeScript & Firebase.
 
-### 🌐 Languages
-* **Bulgarian:** _Native_
-* **English:** _Fluent_
-* **Russian:** _Intermediate (Comprehension)_, _Beginner (Speaking)_, _Beginner (Writing)_
-<br>
+Currently expanding my skills through hands-on projects and continuous learning.  
+Open to collaborating on interesting open-source projects.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkamburov&layout=compact)
+---
+
+## 🚀 Tech Stack
+
+### 💼 Past Experience
+[![Skills](https://skillicons.dev/icons?i=html,css,php,wordpress)](https://skillicons.dev)
+
+### 📚 Currently Working With
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongo,firebase,tailwind,angular,python)](https://skillicons.dev)
+
+---
+
+## 🎓 Education & Certifications
+
+- IT Talents Training Camp with PHP (2021)  
+- Programming Basics with Python – SoftUni (2023)  
+- Programming Fundamentals with Python – SoftUni (2023)  
+- Programming Advanced with JavaScript – SoftUni (2024)  
+- Programming Applications with JavaScript – SoftUni (2024)  
+
+---
+
+## 🌍 Languages
+
+- 🇧🇬 Bulgarian — Native  
+- 🇬🇧 English — Fluent  
+- 🇷🇺 Russian — Intermediate (reading), Beginner (speaking & writing)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkamburov&layout=compact&theme=default)
