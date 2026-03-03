@@ -22,8 +22,15 @@ Open to collaborating on interesting open-source projects.
 - IT Talents Training Camp with PHP (2021)  
 - Programming Basics with Python – SoftUni (2023)  
 - Programming Fundamentals with Python – SoftUni (2023)  
-- Programming Advanced with JavaScript – SoftUni (2024)  
-- Programming Applications with JavaScript – SoftUni (2024)  
+- JavaScript Advanced – SoftUni (2024)  
+- JavaScript Applications – SoftUni (2024)
+- JS Back-End - SoftUni (2024)
+- ReactJS - SoftUni (2024)
+- HTML & CSS - SoftUni (2024)
+- Angular - SoftUni (2024)
+- TypeScript - SoftUni (2025)
+- Vibe Coding Basics - SoftUni (2026)
+- JavaScript Web Developer - SoftUni (2026)
 
 ---
 
@@ -37,4 +44,4 @@ Open to collaborating on interesting open-source projects.
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkamburov&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkamburov&layout=compact&theme=default&hide_border=true&cache_seconds=1800)
