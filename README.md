@@ -34,14 +34,6 @@ Open to collaborating on interesting open-source projects.
 
 ---
 
-## 🌍 Languages
-
-- 🇧🇬 Bulgarian — Native  
-- 🇬🇧 English — Fluent  
-- 🇷🇺 Russian — Intermediate (reading), Beginner (speaking & writing)
-
----
-
 ## 📊 GitHub Stats
 
-![Top Langs](https://pk-stats.vercel.app/api/top-langs/?username=pkamburov&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://pk-stats.vercel.app/api/top-langs/?username=pkamburov&layout=compact&theme=github_dark&hide_border=true)
