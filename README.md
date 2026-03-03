@@ -44,4 +44,4 @@ Open to collaborating on interesting open-source projects.
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkamburov&layout=compact&theme=default&hide_border=true&cache_seconds=1800)
+![Top Langs](https://pk-stats.vercel.app/api/top-langs/?username=pkamburov&layout=compact&theme=tokyonight&hide_border=true)
